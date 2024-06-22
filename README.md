@@ -1,6 +1,6 @@
 # Dojo_Blog
 
-This a practice project for react.js using [Create React App](https://github.com/facebook/create-react-app).
+This is a practice project for react.js using [Create React App](https://github.com/facebook/create-react-app).
  and json-server used as the database which can be accessed by "npx json-server --watch data/db.json --port 8000" in the terminal
 ## Available Scripts
 
